@@ -5,7 +5,7 @@ Leviathan Stress Testing Tool License
 
 Version 1.0 - September 2023
 
-This license ("License") is granted to you ("Licensee") by Abhinav Prasad, the developer of the Leviathan Stress Testing Tool ("the Tool"). By using the Tool, Licensee agrees to the following terms and conditions:
+This license  is granted to you  by Abhinav Prasad, the developer of the Leviathan Stress Testing Tool Leviathan. By using the Tool, Licensee agrees to the following terms and conditions:
 
 1. Usage Restrictions:
    Licensee is granted the right to use the Tool for legitimate purposes, including network stress testing and performance evaluation. Licensee shall not use the Tool for any malicious, illegal, or unethical activities.
@@ -26,7 +26,7 @@ This license ("License") is granted to you ("Licensee") by Abhinav Prasad, the d
    This License may be terminated by Abhinav Prasad at any time if Licensee breaches any of its terms. Upon termination, Licensee must cease using the Tool.
 
 7. Governing Law:
-   This License is governed by the laws of [Your Jurisdiction].
+   This License is governed by the laws of Indian Jurisdiction.
 
 8. Entire Agreement:
    This License constitutes the entire agreement between Licensee and Abhinav Prasad regarding the Tool and supersedes all prior agreements.
